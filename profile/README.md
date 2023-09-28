@@ -1,20 +1,17 @@
-# CommunityFocus
-A repo for issues and discussions for CommunityFocus
+# Community Focus
 
-CommunityFocus is a sharable time tracking app for teams
+CommunityFocus is a sharable time tracking app for teams.
+
+## Tech Stack
+
+TypeScript, React, Web Sockets, MongoDB, Node.js, Express.js
 
 ## Getting Started
-To contibute:
 
-1. Clone the backend and frontend repos (linked below)
-2. Install nodejs (we will be using npm)
-3. Open a terminal and `cd` into backend repo and run `npm i` and then `npm run dev`
-4. Open another terminal and `cd` into the frontend repo. Run `npm i` and then `npm run dev`
-5. Open your browser and go to `http://127.0.0.1:5173/` to open the app (temporary `http://127.0.0.1:5173/abc` to see timer)
+### To Contribute:
+- Read [contributing documentation](https://github.com/CommunityFocus/CommunityFocus/blob/main/.github/CONTRIBUTING.md)
 
-## Stack
-
-### Related repositories
-- [Issues, Discussions, Documentation] - https://github.com/CommunityFocus/CommunityFocus
-- [CommunityFocus Backend] - https://github.com/CommunityFocus/cf-backend
-- [CommunityFocus Frontend] - https://github.com/CommunityFocus/cf-frontend
+### Repositories:
+- [Issues, Discussions, Documentation](https://github.com/CommunityFocus/CommunityFocus)
+- [Frontend](https://github.com/CommunityFocus/cf-frontend)
+- [Backend](https://github.com/CommunityFocus/cf-backend)
